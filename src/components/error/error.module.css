@@ -1,0 +1,22 @@
+.img{
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    height: 220px;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -200px;
+}
+
+.button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    margin-left: -250px;
+    margin-top: 50px;
+    height: 35px;
+    background-color: white;
+    border-color: rgb(26, 253, 64);
+    color: black;
+}

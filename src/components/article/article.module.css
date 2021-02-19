@@ -1,0 +1,109 @@
+.article{
+    background-color: #e9ecef;
+    position: relative;
+    border-bottom: 1px solid #000;
+}
+
+.article h1{
+    padding-top: 10px;
+    text-align: center;
+    color: blue;
+    font-size:45px;
+    margin-bottom: 15px;
+}
+
+.article p{
+    overflow: hidden;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: block;
+    letter-spacing: 1px;
+    font-size:20px;
+    line-height: 1.5;
+    padding-bottom: 60px;
+}
+
+.article span{
+    bottom:30px;
+    right: 20px;
+    font-size: 20px;
+    position: absolute;
+    display: block;
+}
+
+.article a{
+    text-decoration: none;
+    color: blue
+}
+
+.article button{
+    padding:8px 20px;
+    border-radius: 13px;
+    margin-left: 25px;
+    margin-bottom: 33px;
+    background-color: lightblue;
+}
+
+.article textarea{
+    display: block;
+    letter-spacing: 1px;
+    font-size:20px;
+    line-height: 1.5;
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.comments{
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.comments h2{
+    font-size: 35px;
+    padding-bottom: 30px;
+    border-bottom: 1px dotted #000;
+}
+
+.comment{
+    margin-top: 40px;
+}
+.comment h3{
+    font-size:30px;
+    margin-top: 20px;
+}
+
+.comment p{
+    letter-spacing: 1px;
+    padding: 20px;
+    padding-left: 130px;
+    border: 1px dotted #000;
+    background-color: #e9ecef ;
+}
+
+.empty{
+    font-size: 35px;
+    padding-top: 40px;
+}
+
+.commentInput textarea{
+    width: 400px;
+    height: 120px;
+}
+
+.commentInput span{
+    display: block;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.commentInput button{
+    display: block;
+    padding: 10px 20px;
+    background-color: rgb(9, 76, 177);
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 140px;
+    color:white;
+}

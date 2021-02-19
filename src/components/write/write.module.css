@@ -1,0 +1,54 @@
+.form h1{
+    border-bottom: 1px solid #000;
+    font-size: 40px;
+    font-weight: 550;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.form label{
+    font-size:24px;
+    font-weight: 530;
+    display: block;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
+
+.form input{
+    border-radius:6px;
+    margin-left: 150px;
+    width:600px;
+    height:22px;
+    display: block;
+}
+
+.form textarea{
+    margin-left: 150px;
+    width: 600px;
+    height: 200px;
+    border-radius: 6px;
+    display: block;
+}
+
+.form button{
+    margin-top: 40px;
+    margin-left: 150px;
+    height: 40px;
+    width: 100px;
+    background-color:blue;
+    border-radius:6px;
+    border: 0px;
+    color:White;
+    display: block;
+
+}
+
+.form span{
+    color:red;
+    margin-top: 15px;
+    display: block;
+    margin-left: 150px;
+    font-size:18px
+}

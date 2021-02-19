@@ -1,0 +1,46 @@
+.nav{
+    float:left;
+    position: relative;
+    min-height:100vh;
+    width:120px;
+    background-color: #4169e1;
+    z-index: 1;
+    transition: 0.5s;
+}
+
+.nav button{
+    margin-left: 120px;
+    width: 20px;
+    height:20px;
+    border:none;
+    background-color: #4169e1;
+}
+.non_active{
+    margin-left: -120px;
+    transition: 0.5s;
+}
+
+.nav span{
+    display: block;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.nav a{
+    font-family: Aesthetic;
+    text-decoration: none;
+    color: white;
+}
+
+.active_button{
+    font-size: 25px;
+}
+
+.nav img{
+    width: 120px;
+    height: 80px;
+}
+

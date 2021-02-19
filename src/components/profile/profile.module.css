@@ -1,0 +1,40 @@
+.profile img{
+    margin-left: 30px;
+    width: 180px;
+    height: 150px;
+    float: left;
+}
+
+.profile h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.profile button {
+    margin-left: 30px;
+    width:180px;
+    margin-top: 5px;
+    height: 25px;
+}
+
+.image_space {
+    width: 250px;
+    float: left;
+    position: relative;
+}
+
+
+.about p{
+    vertical-align: top;
+    height: 180px;
+    letter-spacing: 0.7px;
+}
+
+.about textarea{
+    height:180px;
+    width: 80%
+}
+
+.articles{
+    margin-top: 10px;
+}

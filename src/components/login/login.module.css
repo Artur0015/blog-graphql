@@ -1,0 +1,51 @@
+.form {
+    width:500px;
+    height: 420px;
+    border:1px solid;
+    padding-left: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left:  -250px;
+    margin-top: -210px;
+}
+
+
+.form h1{
+    text-align:center;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.input{
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    width:90%;
+    display: block;
+}
+
+.checkbox{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.form button{
+    margin-top: 40px;
+    text-align:center;
+    width: 458px;
+    display: block;
+    margin-left: 20px;
+    height:40px;
+    background-color:rgb(44, 44, 212);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.form span{
+    position: absolute;
+    color:red;
+    display: block;
+    margin-left: 20px;
+    padding-top: 15px;
+}
